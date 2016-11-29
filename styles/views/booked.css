@@ -1,6 +1,6 @@
 .booked-main-container {
     width: 100%;
-    height: 400px;
+    height: calc(100vh / 2);
     margin: auto ;
     text-align: center;
     background-size: cover;
@@ -26,3 +26,5 @@
     font-size: 18px;
     color: #FFFFFF;
 }
+
+
